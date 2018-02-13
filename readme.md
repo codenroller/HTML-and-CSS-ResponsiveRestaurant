@@ -10,16 +10,18 @@
 <h3>Part I: Test and Bug Fix !</h3>
 <p>
 	Responsive web design (RWD) is an approach to web design which makes web pages render well 
-	on a variety of devices and window or screen sizes. In this part of the project we are going
+	on a variety of devices and screen sizes. In this part of the project we are going
 	to test our site behavior on screens of different sizes. If a developer finds out that the site is not
 	behaving nicely and responsively, then he/she is expected to investigate the issue and fix it.
-	Create a git repository for the project. You are expected to use Git and GitHub while working
-	on a project. Remember to add meaningful messages when making git commits!
+</p>
+<p>
+        Create a git repository for the project. You are expected to use Git and GitHub while working
+	on the project. Remember to add meaningful messages when making git commits!
 </p>
 
 <p>
 	The first task will be to test the site responsiveness on various screen resolutions, 
-	and fix the bugs if any. Fix each bug separately. After the bug is fixed save changes to your
+	and fix bugs if any. Fix each bug separately. After the bug is fixed save changes to your
 	project git repository. 
 </p>
 
@@ -63,10 +65,11 @@
 	Congratulations! You are almost done!
 </p>
 <p>
-	What is left to do is to add an assignment and solution page to your project.
+	What is left to do is to add an assignment and solution pages to your project and
+	set the proper links for all four pages of the project.
 </p>
 <p>
-	Copy the exercise assigment on the project assignment page. When a user clicks
+	Copy the exercise assignment to the project assignment page. When a user clicks
 	the navigation button 'Assignment' he/she is supposed to be redirected to 
 	the project assignment page.
 </p>
@@ -75,7 +78,7 @@
 	he/she is supposed to be redirected to the project solution page. On the solution 
 	page you are expected to present the solution for the Part I. List all the bugs
 	that you managed to find and briefly explain how you fixed them. At the beginning
-	of the solution page place a link to your project git repository.
+	of the solution page place a link to your project git repository. 
 </p>
 
 
