@@ -65,7 +65,7 @@
 	Congratulations! You are almost done!
 </p>
 <p>
-	What is left to do is to add an assignment and solution pages to your project and
+	What is left to do is to add assignment and solution pages to your project and
 	set the proper links for all four pages of the project.
 </p>
 <p>
